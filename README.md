@@ -1,4 +1,13 @@
-# `ipfs-cluster-ctl`
+# ControlDB Infra
+
+## Setup
+
+```bash
+go build
+go run main.go
+```
+
+## `ipfs-cluster-ctl`
 
 > IPFS cluster management tool
 
